@@ -1,0 +1,13 @@
+After I did the exercise I looked at the solution.
+I realized that my solutions is almost the same.
+I have the same pixels and and sizes than the solution.
+I would like to clarify why this happen and how did I went to px solution.
+The desired-outcome have a resolution, 1238 width and 867 height.
+My approach was to make an calculation of the width with x + x3 = 1238-15.
+It gave me something like 312, so I did 312*3 + 312 and that was my first solution.
+But I was not convinced at all so I round floor the number to 300 and the solution was 300*3+300.
+That's how I get 300px and 900px in my solution, I did the same with the height.
+Height was calculated with x + x + x + 5x = 867 and with some round up I put 100+100+500+100.
+
+This clarification was to show my innocence (xD).
+                    Thank you for reading!
