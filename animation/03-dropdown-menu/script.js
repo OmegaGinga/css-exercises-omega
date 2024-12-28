@@ -1,4 +1,4 @@
-const dropdownContainer = document.querySelector(".dropdown-container");
+ const dropdownContainer = document.querySelector(".dropdown-container");
 const menuTitle = document.querySelector(".menu-title");
 const dropdownMenu = document.querySelector(".dropdown-menu");
 
